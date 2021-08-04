@@ -2,6 +2,8 @@
 
 GUI for accessing the recommended buy reports database for managers to pre-approve inventory purchases for the automated PO system extension for Red Prairie Ecometry.
 
+The entire Purchase Order automation system for the Red Prairie Ecometry ecommerce platform is composed of these three programs:
+
 ImportSuggestedBuyData
 
 Automatically runs three Ecometry recommended buy reports for A1, C3 and R1 items. Parses the resulting text files. Enters the parsed items into a working database. Emails managers the results of the run, so they can use the RecmdBuys to preapprove items for the Purchasing department personnel.
