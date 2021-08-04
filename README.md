@@ -2,11 +2,11 @@
 
 GUI for accessing the recommended buy reports database for managers to pre-approve inventory purchases for the automated PO system extension for Red Prairie Ecometry.
 
-ImportSuggestedBuyData (this program)
+ImportSuggestedBuyData
 
 Automatically runs three Ecometry recommended buy reports for A1, C3 and R1 items. Parses the resulting text files. Enters the parsed items into a working database. Emails managers the results of the run, so they can use the RecmdBuys to preapprove items for the Purchasing department personnel.
 
-RecmdBuys main features
+RecmdBuys main features (this program)
 
 Restrict running of the program to authorized managers. Allows greater access and visibility to the COO. Allows managers to change the recommended purchase quantities or remove unwanted items. Displays items, styles, sales, activity, and advertisement reports on demand.
 
